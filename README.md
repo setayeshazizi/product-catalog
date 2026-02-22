@@ -30,14 +30,11 @@ Tech Stack
 ___________
 
  Quick Start
-
-1. Clone the repo:
+ Clone the repo:
 
 ```bash
 git clone (https://github.com/setayeshazizi/product-catalog)
 cd product_catalog
-
-_____________
 
  Install dependencies:
  npm install
