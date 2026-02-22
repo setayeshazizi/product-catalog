@@ -34,8 +34,8 @@ ___________
 1. Clone the repo:
 
 ```bash
-git clone <YOUR_REPO_LINK>
-cd <product_catalog>
+git clone (https://github.com/setayeshazizi/product-catalog)
+cd product_catalog
 
 _____________
 
